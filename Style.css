@@ -16,3 +16,8 @@ li a {
 li a:hover {
   background-color: #555555;
   color: white;
+
+  .active {
+  background-color: #04AA6D;
+  color: white;
+}
