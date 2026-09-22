@@ -8,6 +8,7 @@ ul {
   width: 130px;
   position: fixed;
   height: 100%;
+  overflow: auto;
   background-color: #f1f1f1;
 }
 li a {
