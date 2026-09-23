@@ -1,7 +1,8 @@
 body {
-  margin: 0;
+  background-color: Blue;
   
 ul {
+  margin: 0;
   list-style-type: none;
   padding: 0;
   width: 130px;
@@ -31,4 +32,6 @@ h1 {
   text-align: center;
 }
 
-p
+p {
+  text-align: center;
+}
