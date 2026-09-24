@@ -1,23 +1,72 @@
-ul {
-  list-style-type: none;
+body {
+  background-color: #DB9558;
+  text-align: center;
   margin: 0;
-  padding: 0;
-  width: 200px;
-  background-color: #f1f1f1;
 }
+
+h1 {
+  color: #FCF9EA;
+}
+
+p { 
+ font-size: 18px;
+ border-style: solid;
+ border-color: #4F5B2A;
+ border-radius: 20px;
+ padding: 3%;
+ margin-left: 25%;
+ margin-right: 25%;
+ background-color: #FCF9EA;
+ color: #4F5B2A;
+}
+
+img {
+position: absolute; 
+  top: 60px;        
+  right: 30px;    
+}
+
+ul {
+  margin-top: -2%;
+  list-style-type: none;
+  padding: 0;
+  width: 150px;
+  position: fixed;
+  height: 1000px;
+  background-color: #97A87A;
+  border-right-style: solid;
+  border-color: #4F5B2A;
+  border-width: 5px;
+  overflow: auto;
+}
+
+.myDiv {
+  margin-top: 10%;
+}
+
 li a {
+  margin: 10px;
   display: block;
-  color: black;
+  color: #4F5B2A;
+  background-color: #FCF9EA;
   padding: 8px 16px;
   text-decoration: none;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 3%;
+  border-style: solid;
+  border-color: #4F5B2A;
+  border-radius: 10px;
 }
 
-/* Change the link and background color on hover */
+  li a.active {
+  background-color: #4F5B2A;
+  color: #F5EFE3;
+  border-color: #4F5B2A;
+}
+
 li a:hover {
-  background-color: #555555;
-  color: white;
-
-  .active {
-  background-color: #04AA6D;
+  background-color: #707A54;
   color: white;
 }
+
