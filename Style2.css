@@ -20,12 +20,6 @@ p {
  color: #4F5B2A;
 }
 
-img {
-position: absolute; 
-  top: 60px;        
-  right: 30px;    
-}
-
 ul {
   margin-top: -2%;
   list-style-type: none;
