@@ -6,6 +6,13 @@ body {
 
 h1 {
   color: #FCF9EA;
+  margin-left: 3%;
+}
+
+img {
+margin-left: 5%;  
+border-style: solid;
+margin-top: 10% 
 }
 
 p { 
@@ -15,7 +22,7 @@ p {
  border-radius: 20px;
  padding: 3%;
  margin-left: 25%;
- margin-right: 25%;
+ margin-right: 20%;
  background-color: #FCF9EA;
  color: #4F5B2A;
 }
