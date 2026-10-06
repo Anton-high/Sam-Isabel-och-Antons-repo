@@ -19,7 +19,7 @@ margin-top: 10%
 p { 
  font-size: 18px;
  border-style: solid;
- border-color: #4F5B2A;
+ border-color: black;
  border-radius: 20px;
  padding: 3%;
  margin-left: 25%;
@@ -38,7 +38,7 @@ ul {
   background-color: #836953;
   border-right-style: solid;
   border-color: black;
-  border-width: 5px;
+  border-width: 3px;
   overflow: auto;
 }
 
