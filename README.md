@@ -12,7 +12,6 @@ Anton uppdaterade headings på historia.html
 Lektion 5:
 Sam har uppdelat och avstämt med alla om vad de ska göra. Sam har bifogat bilder på hemsidan och ändrat titlarna på de olika sidorna. Samuel har skapat en sida för varje årtal och fixat så att alla sidor länkar till varandra
 
-# Sam-Isabel-och-Antons-repo. hittade mer bilder. lekion 5.
 
 Lektion 6:
 Sam: Jag har redigerat storleken på bilderna med hjälp av photopea samt skapat en border runt dem, ändrat färgpaletten på sida 1800-talet, samt skapat fler css filer till de olika sidorna och kopierat in tidigare css kod till dem.
