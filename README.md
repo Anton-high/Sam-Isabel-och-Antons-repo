@@ -22,4 +22,7 @@ lekion 6. Isabel skirver, hittad en till bild.
 Lektion 7:
 Sam: Jag har jobbat med färgpaletten till sidan som handlar om 1900-talet och försökt hitta bra färger som representerar det årtalet.
 
+Lektion 8:
+Sam: Sökte upp och ändrade färgerna för sidan om 1900-talet för att matcha årtalet. 
+
 
