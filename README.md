@@ -25,4 +25,6 @@ Sam: Jag har jobbat med färgpaletten till sidan som handlar om 1900-talet och f
 Lektion 8:
 Sam: Sökte upp och ändrade färgerna för sidan om 1900-talet för att matcha årtalet. 
 
+Lektion 9: 
+Sam: Jobbade på sidan om 2000-talet. Färgpalett och justerade borders och storlek på saker. Gick igenom och redigerade fel-stavelser i innehållet/texten.
 
