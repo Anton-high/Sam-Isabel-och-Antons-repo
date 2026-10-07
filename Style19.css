@@ -64,7 +64,7 @@ li a {
   li a.active {
   background-color: black;
   color: white;
-  border-color: white;
+  border-color: ;
 }
 
 li a:hover {
