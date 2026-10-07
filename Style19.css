@@ -51,13 +51,13 @@ li a {
   display: block;
   color: black;
   background-color: #f2e2c8;
-  padding: 8px 16px;
+  padding: 6px 16px;
   text-decoration: none;
   margin-left: 5%;
   margin-right: 5%;
   margin-top: 3%;
   border-style: solid;
-  border-color: black;
+  border-color: #836953;
   border-radius: 10px;
 }
 
