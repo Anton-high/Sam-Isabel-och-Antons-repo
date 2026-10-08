@@ -28,3 +28,5 @@ Sam: Sökte upp och ändrade färgerna för sidan om 1900-talet för att matcha 
 Lektion 9: 
 Sam: Jobbade på sidan om 2000-talet. Färgpalett och justerade borders och storlek på saker. Gick igenom och redigerade fel-stavelser i innehållet/texten.
 
+Lektion 10:
+Sam: jobbade med sidan om 1700-talet, ändrade färgpaletten.
