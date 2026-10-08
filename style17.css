@@ -1,30 +1,31 @@
 body {
-  background-color: #DB9558;
+  background-color: #48453a;
   text-align: center;
   margin: 0;
 }
 
 h1 {
-  color: #FCF9EA;
+  color: #d3d8d9;
   margin-left: 3%;
 }
 
 img {
 margin-left: 5%;  
 border-style: solid;
+border-color: #d3d8d9;
 margin-top: 10% 
 }
 
 p { 
  font-size: 18px;
  border-style: solid;
- border-color: #4F5B2A;
+ border-color: #d3d8d9;
  border-radius: 20px;
  padding: 3%;
  margin-left: 25%;
  margin-right: 20%;
- background-color: #FCF9EA;
- color: #4F5B2A;
+ background-color: #ccb876;
+ color: #372f3a;
 }
 
 ul {
@@ -34,9 +35,9 @@ ul {
   width: 150px;
   position: fixed;
   height: 1000px;
-  background-color: #97A87A;
+  background-color: #89a8ad;
   border-right-style: solid;
-  border-color: #4F5B2A;
+  border-color: #d3d8d9;
   border-width: 5px;
   overflow: auto;
 }
@@ -48,25 +49,26 @@ ul {
 li a {
   margin: 10px;
   display: block;
-  color: #4F5B2A;
-  background-color: #FCF9EA;
+  color: #372f3a;
+  background-color: #d3d8d9;
   padding: 8px 16px;
   text-decoration: none;
   margin-left: 5%;
   margin-right: 5%;
   margin-top: 3%;
   border-style: solid;
-  border-color: #4F5B2A;
+  border-color: #89a8ad;
   border-radius: 10px;
 }
 
   li a.active {
-  background-color: #4F5B2A;
-  color: #F5EFE3;
-  border-color: #4F5B2A;
+  background-color: #372f3a;
+  color: #d3d8d9;
+  border-color: #d3d8d9;
 }
 
 li a:hover {
-  background-color: #707A54;
-  color: white;
+  background-color: #ccb876;
+  color: #d3d8d9;
+  border-color: #d3d8d9;
 }

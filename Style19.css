@@ -1,25 +1,25 @@
 body {
-  background-color: #DB9558;
+  background-color: #592720;
   text-align: center;
   margin: 0;
 }
 
 h1 {
-  color: #FCF9EA;
+  color: black;
   margin-left: 3%;
 }
 
 img {
 margin-left: 5%;  
 border-style: solid;
-border-color: #97A87A;
+border-color: black;
 margin-top: 10% 
 }
 
 p { 
  font-size: 18px;
  border-style: solid;
- border-color: #4F5B2A;
+ border-color: black;
  border-radius: 20px;
  padding: 3%;
  margin-left: 25%;
@@ -35,10 +35,10 @@ ul {
   width: 150px;
   position: fixed;
   height: 1000px;
-  background-color: #97A87A;
+  background-color: #836953;
   border-right-style: solid;
-  border-color: #4F5B2A;
-  border-width: 5px;
+  border-color: black;
+  border-width: 3px;
   overflow: auto;
 }
 
@@ -49,26 +49,26 @@ ul {
 li a {
   margin: 10px;
   display: block;
-  color: #4F5B2A;
-  background-color: #FCF9EA;
+  color: black;
+  background-color: #f2e2c8;
   padding: 8px 16px;
   text-decoration: none;
   margin-left: 5%;
   margin-right: 5%;
   margin-top: 3%;
   border-style: solid;
-  border-color: #4F5B2A;
+  border-color: #836953;
   border-radius: 10px;
 }
 
   li a.active {
-  background-color: #4F5B2A;
-  color: #F5EFE3;
-  border-color: #4F5B2A;
+  background-color: black;
+  color: white;
+  border-color: ;
 }
 
 li a:hover {
-  background-color: #707A54;
+  background-color: #B39F7F;
   color: white;
 }
 

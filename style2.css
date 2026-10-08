@@ -1,29 +1,30 @@
 body {
-  background-color: #DB9558;
+  background-color: #5d7680;
   text-align: center;
   margin: 0;
 }
 
 h1 {
-  color: #FCF9EA;
+  color: #372f3a;
   margin-left: 3%;
 }
 
 img {
 margin-left: 5%;  
 border-style: solid;
+border-color: #372f3a;
 margin-top: 10% 
 }
 
 p { 
  font-size: 18px;
  border-style: solid;
- border-color: #4F5B2A;
+ border-color: #d3d8d9;
  border-radius: 20px;
  padding: 3%;
  margin-left: 25%;
  margin-right: 20%;
- background-color: #FCF9EA;
+ background-color: #b3c6b4;
  color: #4F5B2A;
 }
 
@@ -34,10 +35,10 @@ ul {
   width: 150px;
   position: fixed;
   height: 1000px;
-  background-color: #97A87A;
+  background-color: #464459;
   border-right-style: solid;
-  border-color: #4F5B2A;
-  border-width: 5px;
+  border-color: #372f3a;
+  border-width: 3px;
   overflow: auto;
 }
 
@@ -48,25 +49,25 @@ ul {
 li a {
   margin: 10px;
   display: block;
-  color: #4F5B2A;
-  background-color: #FCF9EA;
+  color: #372f3a;
+  background-color: #b3c6b4;
   padding: 8px 16px;
   text-decoration: none;
   margin-left: 5%;
   margin-right: 5%;
   margin-top: 3%;
   border-style: solid;
-  border-color: #4F5B2A;
+  border-color: #372f3a;
   border-radius: 10px;
 }
 
   li a.active {
-  background-color: #4F5B2A;
-  color: #F5EFE3;
-  border-color: #4F5B2A;
+  background-color: #372f3a;
+  color: #d3d8d9;
+  border-color: #d3d8d9;
 }
 
 li a:hover {
-  background-color: #707A54;
-  color: white;
+  background-color: #8eb29a;
+  color: #d3d8d9;
 }
