@@ -18,7 +18,7 @@ border-color: #FCF9EA;
 p { 
  font-size: 18px;
  border-style: solid;
- border-color: #525252;
+ border-color: #8A9C8C;
  border-radius: 20px;
  padding: 3%;
  margin-left: 25%;
@@ -34,7 +34,7 @@ ul {
   width: 150px;
   position: fixed;
   height: 1000px;
-  background-color: #525252;
+  background-color: #8A9C8C;
   border-right-style: solid;
   border-color: #FCF9EA;
   border-width: 5px;
@@ -61,12 +61,12 @@ li a {
 }
 
   li a.active {
-  background-color: #ADADAD;
+  background-color: #9C6F6A;
   color: #F5EFE3;
   border-color: #525252;
 }
 
 li a:hover {
-  background-color: #ADADAD;
+  background-color: #9C6F6A;
   color: white;
 }
