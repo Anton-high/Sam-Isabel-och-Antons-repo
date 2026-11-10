@@ -2,28 +2,18 @@ body {
   background-color: black;
   text-align: center;
   margin: 0;
-  font-family: "Lato", sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 h1 {
   color: #FEDA69;
-  font-size: 36px;
-  margin-left: 150px;
-  margin-right: 5px;
 }
 
 p { 
- font-size: 24px;
- padding: 3%;
-  margin-left: 150px;
-  margin-right: 5px;
+ font-size: 18px;
+ margin-left: 25%;
+ margin-right: 25%;
  color: #FEDA69;
-}
-
-img {
-position: absolute; 
-  top: 60px;        
-  right: 30px;    
 }
 
 ul {
@@ -35,9 +25,13 @@ ul {
   height: 1000px;
   background-color: black;
   border-right-style: solid;
-  border-color: #262027;
+  border-color: #FEDA69;
   border-width: 5px;
   overflow: auto;
+}
+
+.myDiv {
+  margin-top: 10%;
 }
 
 .myDiv {
@@ -68,8 +62,4 @@ li a {
 li a:hover {
   background-color: #FEDA69;
   color: black;
-}
-
-.ofs {
-
 }
