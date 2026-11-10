@@ -38,6 +38,27 @@ ul {
   margin-top: 10%;
 }
 
+table {
+  width: 50%;
+}
+
+table, th, td {
+  border-style: solid;
+  border-color: #FEDA69;
+  border-width: 5px;
+  border-collapse: collapse;
+  padding: 5px;
+  text-align: center;
+  vertical-align: middle;
+  color: #FEDA69;
+  table-layout: fixed;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 li a {
   margin: 10px;
   display: block;
