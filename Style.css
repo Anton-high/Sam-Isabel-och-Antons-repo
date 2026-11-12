@@ -34,7 +34,7 @@ ul {
   padding: 0;
   width: 150px;
   position: fixed;
-  height: 1000px;
+  height: 100vh;
   background-color: #97A87A;
   border-right-style: solid;
   border-color: #4F5B2A;
