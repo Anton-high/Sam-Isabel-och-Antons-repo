@@ -1,19 +1,34 @@
 body {
   background-color: black;
   text-align: center;
-  margin: 0;
+  margin-right: 150px;
   font-family: 'Lato', sans-serif;
+}
+
+srf {
+  font-family: 'Gentium Plus', serif;
+}
+
+.old {
+  font-family: 'Gentium Plus', serif;
 }
 
 h1 {
   color: #FEDA69;
+  margin-left: 300px;
+  margin-right: 0%;
 }
 
 p { 
  font-size: 18px;
- margin-left: 25%;
- margin-right: 25%;
+ margin-left: 300px;
+ margin-right: 0%;
  color: #FEDA69;
+}
+
+rom { 
+ font-size: 9px;
+ font-style: italic;
 }
 
 ul {
@@ -39,7 +54,7 @@ ul {
 }
 
 table {
-  width: 50%;
+  width: 72.875%;
 }
 
 table, th, td {
@@ -55,8 +70,8 @@ table, th, td {
 }
 
 .center {
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 300px;
+  margin-right: 150px;
 }
 
 li a {
