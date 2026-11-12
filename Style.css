@@ -28,7 +28,8 @@ position: absolute;
 }
 
 ul {
-  margin-top: -2%;
+ margin-top: 0;
+  top: 0;
   list-style-type: none;
   padding: 0;
   width: 150px;
