@@ -11,6 +11,9 @@ body {
   box-sizing: 90% 100%;
 }
 
+a {
+color: #c30010;
+}
 
 h1 {
   color: #c30010;
@@ -48,8 +51,8 @@ h2 {
  border-color: #c30010;
  border-radius: 2px;
  padding: 2%;
- margin-left: 33%;
- margin-right: 30%;
+ margin-left: 31%;
+ margin-right: 35%;
  padding-left: 1.5%;
  padding-right: 1.5%;
  color: #c30010;
